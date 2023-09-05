@@ -1,0 +1,34 @@
+.glav
+{
+    font-family:Comic Sans MS;
+    list-style: upper-roman;
+}
+.red
+{
+    color: red;
+}
+.orange
+{
+    color: orange;
+}
+.cyan
+{
+    color: cyan;
+}
+.green
+{
+    color: green;
+}
+.blue
+{
+    color: blue;
+}
+.black
+{
+    color: black;
+    list-style: lower-alpha;
+}
+.letter
+{
+    list-style: lower-alpha;
+}
